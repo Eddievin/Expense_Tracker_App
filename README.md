@@ -1,6 +1,9 @@
 # </> Expense Tracker App
 🌱 This is a ready to use fully functioning UI application made with React Native for an expense tracker and money management.
 
+
+![image](https://user-images.githubusercontent.com/49716569/139417239-53731ff0-48a8-4156-bb66-373cc0652ea7.jpg)
+
 ## 🤝 Contributions
 Expense Tracker App is now open source anyone can contribute to this project, but there are several steps which needs to be followed by you. If you made up your mind to contribute then fork the repository and star it, and then follow the steps given below:  
 - Raise an Issue with proper title, description and label wherever needed.
